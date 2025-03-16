@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://cu5n3hf1enbex"
+path="res://.godot/imported/isometric-sandbox.aseprite-d3f03d36799d54873495d70cb92b81a3.res"
+
+[deps]
+
+source_file="res://assets/isometric-sandbox-32x32/isometric-sandbox-32x32/isometric-sandbox.aseprite"
+dest_files=["res://.godot/imported/isometric-sandbox.aseprite-d3f03d36799d54873495d70cb92b81a3.res"]
+
+[params]
+
